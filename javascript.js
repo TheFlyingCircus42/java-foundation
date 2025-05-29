@@ -51,6 +51,27 @@ let user = 'John'
     , age = 25
     , message = 'Hello!';
 */
+/*
+let x = 0.2 + 0.1
+console.log (x)
 
+let y = (0.2 * 10 + 0.1 * 10 ) /10
+console.log (y)
+*/
 
+///////////////////////////////////
+///https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Math
+/*
+const myInt = 5;
+const myFloat = 6.667;
+myInt;
+myFloat;
+
+myNumber = 67;
+myNumber;
+
+typeof myInt;
+*/
+
+console.log (10+7);
 
